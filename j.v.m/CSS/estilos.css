@@ -1,0 +1,24 @@
+.hero {
+  background: linear-gradient(135deg, #1A2B4A, #6CACE4);
+}
+
+
+.tarjeta-memoria {
+  background: #1A2B4A;
+  color: white;
+  padding: 2rem;
+  border: 3px solid #6CACE4;
+  border-radius: 8px;
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+
+.tarjeta-fecha { color: #6CACE4; font-size: 0.9rem; }
+.tarjeta-mensaje { font-size: 1.3rem; font-style: italic; margin: 1rem 0; }
+.tarjeta-firma { color: #6CACE4; font-size: 0.85rem; }
+
+
+.error { color: #B71C1C; font-weight: 600; }
+.exito { color: #1A6B2A; font-weight: 600; }
